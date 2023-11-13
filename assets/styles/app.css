@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #ccc;
+}
+.section-button-start {
+    display: flex;
+    justify-content: center;
+    margin-top: 10vh;
+}
+.start-game-style {
+    width: 200px;
+    padding: 20px;
+    font-size: 20px;
+    font-weight: 700;
+    cursor: pointer;
+    border: none;
+    background: #1bbbac;
+    color:black;
+    border-radius: 5px;
+    box-shadow: 0 3px 5px #777777;
+}
+.start-game-style:hover {
+    cursor: pointer;
+    color: #383b3a;
+}
